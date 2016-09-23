@@ -1,2 +1,5 @@
 site_name: IDF Sistemas
+site_description: IDF test
 theme: readthedocs
+pages:
+- ['index.md', 'Index']
