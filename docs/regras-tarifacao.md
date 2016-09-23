@@ -1,0 +1,3 @@
+# Configurando Regras de Tarifação
+
+
