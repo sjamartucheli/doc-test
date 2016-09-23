@@ -1,14 +1,14 @@
 site_name: IDF Sistemas
 theme: readthedocs
 pages:
-- Hub: 'hub.md'
-- Estacionamento: 'cadastro-estacionamento.md'
-- Regras de tarifação: 'regras-tarifacao.md'
-- Dispositivos: 'configuracao-dispositivos.md'
-- Impressoras: 'configuracao-impressoras.md'
+- Hub: hub.md
+- Estacionamento: cadastro-estacionamento.md
+- Regras de tarifação: regras-tarifacao.md
+- Dispositivos: configuracao-dispositivos.md
+- Impressoras: configuracao-impressoras.md
 - Relatórios:
-    - 'Index': 'relatorios/index.md'
-    - 'Veículos Avulsos': 'relatorios/veiculos-avulsos.md'
-    - 'Movimento por período': 'relatorios/movimento-periodo.md'
-    - 'Faturamento': 'relatorios/faturamento.md'
-    - 'Permanência': 'relatorios/permanencia.md'
+    - Index: relatorios/index.md
+    - Veículos Avulsos: relatorios/veiculos-avulsos.md
+    - Movimento por período: relatorios/movimento-periodo.md
+    - Faturamento: relatorios/faturamento.md
+    - Permanência: relatorios/permanencia.md
