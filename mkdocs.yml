@@ -1,8 +1,9 @@
 site_name: IDF Sistemas
 theme: readthedocs
 pages:
-- ['hub.md', 'Hub']
-- ['cadastro-estacionamento.md', 'Estacionamento']
-- ['regras-tarifacao.md', 'Regras']
-- ['configuracao-dispositivos.md', 'Dispositivos']
-- ['configuracao-impressoras.md', 'Impressoras']
+- IDF: index.md
+- Hub: hub.md
+- Estacionamento: cadastro-estacionamento.md
+- Regras: regras-tarifacao.md
+- Dispositivos: configuracao-dispositivos.md
+- Impressoras: configuracao-impressoras.md
