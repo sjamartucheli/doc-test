@@ -6,6 +6,6 @@ O HUB é uma ferramenta em nuvem onde você pode criar regras, cadastrar disposi
 
 ## Como acessar o HUB?
 
-Acesse o endereço [parking.idfsistemas.com.br](parking.idfsistemas.com.br) e clique em **Login** no canto superior direito. Na tela de login entre com seu e-mail e senha cadastrados.
+Acesse o endereço [parking.idfsistemas.com.br](https://parking.idfsistemas.com.br) e clique em **Login** no canto superior direito. Na tela de login entre com seu e-mail e senha cadastrados.
  
 
