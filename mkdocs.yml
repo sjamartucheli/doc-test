@@ -6,9 +6,3 @@ pages:
 - Regras de tarifação: regras-tarifacao.md
 - Dispositivos: configuracao-dispositivos.md
 - Impressoras: configuracao-impressoras.md
-- Relatórios:
-    - Index: relatorios/index.md
-    - Veículos Avulsos: relatorios/veiculos-avulsos.md
-    - Movimento por período: relatorios/movimento-periodo.md
-    - Faturamento: relatorios/faturamento.md
-    - Permanência: relatorios/permanencia.md
