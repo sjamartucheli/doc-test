@@ -3,6 +3,6 @@ theme: readthedocs
 pages:
 - Hub: hub.md
 - Estacionamento: cadastro-estacionamento.md
-- Regras de tarifação: regras-tarifacao.md
+- Regras: regras-tarifacao.md
 - Dispositivos: configuracao-dispositivos.md
 - Impressoras: configuracao-impressoras.md
