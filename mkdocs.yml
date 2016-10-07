@@ -1,7 +1,7 @@
 site_name: IDF Sistemas
 theme: readthedocs
 pages:
-- IDF: index.md
+- ERP: index.md
 - Hub: hub.md
 - Estacionamento: cadastro-estacionamento.md
 - Regras: regras-tarifacao.md
