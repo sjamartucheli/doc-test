@@ -1,15 +1,27 @@
-# IDF Gestao
+# [IDF Parking](www.parking.idfsistemas.com.br)
 
-Plataforma completa para gestão do seu negócio com módulos administrativo, financeiro, restaurante e cinema.
+Gestão de estacionamentos do futuro
 
-[mais](http://idf-doc-test.readthedocs.io/projects/gestao)
+- Opere usando apenas um smartphone
+- Sem custos de implantação
+- Fácil e prático
+- Acessivel de qualquer dispositivo Android
 
-# IDF Retaguarda
+## IDF Parking - HUB
 
-Retaguarda IDF Sistemas.
+### O que é o HUB?
 
-[mais](http://idf-doc-test.readthedocs.io/projects/retaguarda)
+O HUB é uma ferramenta em nuvem onde você pode criar regras, cadastrar dispositivos e acessar relatórios do seu estacionamento. Nele ficam centralizadas todas as configurações como CNPJ, endereço...
 
-# PAF ECF
+### Como acessar o HUB?
 
-Solução completa para vendas com ECF no seu negócio. etc etc etc.
+Acesse o endereço [parking.idfsistemas.com.br](https://parking.idfsistemas.com.br) e clique em **Login** no canto superior direito. Na tela de login entre com seu e-mail e senha cadastrados.
+ 
+## IDF Parking - Mobile
+
+### O que é a versão Mobile
+
+### Instalando o IDF Parking - Mobile
+
+### Requisitos mínimos necessários
+

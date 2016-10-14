@@ -1,3 +1,0 @@
-# Configurando Impressoras
-
-
