@@ -1,9 +1,16 @@
-site_name: IDF Sistemas
+site_name: IDF Parking
 theme: readthedocs
 pages:
 - ERP: index.md
-- Hub: hub.md
-- Estacionamento: cadastro-estacionamento.md
-- Regras: regras-tarifacao.md
-- Dispositivos: configuracao-dispositivos.md
-- Impressoras: configuracao-impressoras.md
+- Hub:
+    - Estacionamentos: hub/cadastro-estacionamento.md
+    - 'Regras de Tarifação': hub/regras-tarifacao.md
+    - Dispositivos: hub/config-dispositivos.md
+    - Impressoras: hub/config-impressoras.md
+    - Relatórios: hub/relatorios.md
+    - 'Editando seu usuário': hub/usuario.md
+- Mobile:
+    - 'Configurando estacionamento': mobile/config-estacionamento.md
+    - 'Configurando impressora': mobile/config-impressora.md
+    - 'Check-in de veículos': mobile/check-in.md
+    - 'Check-out de veículos': mobile/check-out.md
